@@ -1,0 +1,3 @@
+This is an MPI implementation of K-means clustering.
+The source and makefile should be self-explanatory.
+It was developed using mpich.3.1.4 on Fedora 22.
